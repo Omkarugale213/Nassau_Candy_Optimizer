@@ -5,7 +5,7 @@ Interactive Streamlit dashboard that predicts shipping lead time, simulates movi
 ## Files
 | File | Purpose |
 |---|---|
-| `app.py` | Streamlit dashboard (no upload box; data loads automatically) |
+| `app.py` | Streamlit dashboard |
 | `core.py` | Data prep, models, simulation, ranking, clustering |
 | `Nassau_Candy_Distributor.csv` | Dataset (must sit next to `app.py`) |
 | `Nassau_Candy_Optimization.ipynb` | Google Colab notebook (EDA, models, simulation) |
